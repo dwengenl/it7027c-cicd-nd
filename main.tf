@@ -26,3 +26,4 @@ resource "docker_container" "web" {
     external = 8080 
   } 
 }
+# CI/CD Test
